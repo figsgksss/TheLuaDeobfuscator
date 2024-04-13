@@ -13,7 +13,7 @@ https://discord.gg/cdhcryv
 
 Add me on discord
 
- ```The Great Sage Equal To Heaven#7780```
+ ```Figsgksss```
 
 # Motivation
 This project was created for intellectual purposes as a way to explore code deobfuscation techniques on Lua scripts obfuscated by Luraph, which is a tool used to obfuscate Lua scripts. This Lua obfuscator has been used by cybercriminals as a way of protecting malicious exploits they sell for Robolox or bots for World of Warcraft. This project may be of interest to game security developers to prevent cheating in their games by discovering how hackers are breaking their code.
